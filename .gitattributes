@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.appx filter=lfs diff=lfs merge=lfs -text
+=======
+*.exe filter=lfs diff=lfs merge=lfs -text
+>>>>>>> ccde75f54d61fc4d65bac53113e819d99d4c5a19
